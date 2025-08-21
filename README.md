@@ -1,5 +1,18 @@
-# 💫 About Me:
-Hi, I’m Zeba 👋<br><br>🔭 I’m currently working on:<br><br>A Voice-Powered Research Assistant using Whisper + GPT + TTS. Lightweight ML models for health/education datasets (interpretability & fairness).<br><br>🤝 I’m looking to collaborate on:<br><br>Open-source projects in LLMs, RAG pipelines, or AI for social impact. Building AI tools for productivity, education, and accessibility.<br><br>💬 I’m looking for help with:<br><br>Optimizing speech-to-text + LLM pipelines for speed/accuracy. Guidance on publishing beginner-friendly AI research at workshops/conferences.
+# 👋 Hi, I’m Zeba  
+✨ Always learning. Always building. ✨
+
+### 🔭 Currently Building  
+- 🎙️ **Voice-Powered Research Assistant** → Whisper + GPT + TTS  
+- 🧑‍⚕️ **Lightweight ML models** for health & education datasets  
+  - Focus: **Interpretability** & **Fairness**  
+
+### 🤝 Open to Collaborate On  
+- 🚀 **Open-source projects** in LLMs & RAG pipelines  
+- 🌍 **AI for social impact** (productivity, education, accessibility)  
+
+### 💡 Seeking Guidance In  
+- ⚡ Optimizing **speech-to-text + LLM pipelines** for speed & accuracy  
+- 📝 Publishing **beginner-friendly AI research** at workshops/conferences  
 
 
 Tech Stack:
@@ -9,13 +22,14 @@ Tech Stack:
 ![](https://nirzak-streak-stats.vercel.app/?user=coolcoder03&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coolcoder03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=coolcoder03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=coolcoder03&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=coolcoder03&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
