@@ -22,7 +22,7 @@ I build AI systems that combine **LLM reasoning, semantic retrieval, agent workf
 
 ```text
 🔬  LLM Evaluation & RAG          ████████████████████   research-grade
-🤖  Multi-Agent Systems            ██████████████████░░   production-adjacent
+🤖  Multi-Agent Systems            ████████████████░░░░   production-adjacent
 🔍  Semantic Search & Retrieval    ████████████████████   shipped
 🏗️  Enterprise API & Full-Stack    ████████████████████   3+ years
 ```
@@ -136,7 +136,6 @@ Combines prayer times, habits, tasks, and voice input into a personalized daily 
 [![Email](https://img.shields.io/badge/Email-FFE8A3?style=for-the-badge&logo=gmail&logoColor=333)](mailto:zeba1506@gmail.com)
 
 **Open to Applied AI Engineer · Forward Deployed Engineer · AI Evals roles**
-Sponsorship required (F-1 OPT → H-1B) · Bay Area or Remote
 
 </div>
 
